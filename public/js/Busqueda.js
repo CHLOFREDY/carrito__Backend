@@ -1,4 +1,3 @@
-
 const informacion = document.getElementById('seccion-info');
 const carritoCompras = document.getElementById("carrito-compras");
 const lupa = document.getElementById('lupa');
